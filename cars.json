@@ -2,7 +2,7 @@
     {
         "nome": "Luiz",
         "idade": 25,
-        "Carro":"Celta",
+        "Modelo":"Celta",
         "Cor":"Vermelho",
         "Ano": 2010,
         "Valor mensal": "R$ 300"
